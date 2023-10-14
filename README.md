@@ -3,4 +3,4 @@ Fingerprint recognition is widely used for security and authentication purposes,
 Team Members:
 Team Member 1: Gopika R(Team Lead),
 Team Member 2: Divya S, 
-Team Member 3: Manisha G
+Team Member 3: Manisha G.
